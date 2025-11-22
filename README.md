@@ -42,7 +42,8 @@ Product-category performance
 ✔️ Dashboard image summarizing the analysis visually
 
 ⭐ Project Structure
-/
+
+
 │── customers.csv                        ← Customer data  
 │── orders.csv                           ← Order data  
 │── products.csv                         ← Product data  
