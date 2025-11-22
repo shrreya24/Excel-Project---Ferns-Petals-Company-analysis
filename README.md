@@ -1,66 +1,91 @@
-Project Overview
+⭐ Project Overview
 
-This project analyses sales data of the company “Ferns & Petals” (FNP). Using Excel (and possibly supporting files), the goal is to derive insights about sales performance, trends, and opportunities. The deliverables include datasets, a documented report (Ferns and Petals Sales Analysis.pdf), and supporting visualisations/screenshots.
+This project analyses sales data of the company Ferns & Petals (FNP). Using Excel and supporting CSV files, the goal is to derive insights about sales performance, trends, customer behaviour, and growth opportunities.
+The project includes:
 
-Motivation
+Clean datasets
 
-Why this project:
+A detailed analysis report (Ferns and Petals Sales Analysis.pdf)
 
-To practice data analytics skills using real-world style sales data.
+A dashboard image summarizing insights
 
-To help stakeholders (like marketing, operations, management) understand which products, regions or time periods are driving or missing sales.
+Why This Project?
 
-To showcase competence in data handling, visualization, and report writing.
+🟢 To practice data analytics skills using real-world-style sales data
 
-Key Features
+🟢 To help stakeholders (marketing, operations, management) understand:
 
-Clean and structured dataset for FNP sales.
+Which products perform best
 
-Analysis of key metrics (e.g., total revenue, growth over time, product-category performance).
+Which regions drive or lag in sales
 
-Visualisations / charts (via Excel) for trends, comparisons, etc.
+When sales peak or drop
 
-Insights & recommendations provided in the PDF report.
+🟢 To demonstrate competence in data cleaning, visualization, and professional report writing
 
-Screenshot(s) to show sample output or dashboards.
+⭐ Key Features
 
-Project Structure 
+✔️ Clean and structured datasets for FNP sales
+
+✔️ Analysis of important business metrics:
+
+Total revenue
+
+Time-based growth patterns
+
+Product-category performance
+
+✔️ Excel charts and visualisations for comparisons and trends
+
+✔️ Insights and actionable recommendations in the PDF report
+
+✔️ Dashboard image summarizing the analysis visually
+
+⭐ Project Structure
 /
-│── customers.csv       ← Customer's data
-│── orders.csv          ← Order data
-│── products.csv       ← Product's data
-│── Ferns and Petals Sales Analysis.pdf   ← Final analysis + insights report  
-│── dashboard_image.png             ← Excel dashboard screenshot  
-│── README.md                       ← Project documentation
+│── customers.csv                        ← Customer data  
+│── orders.csv                           ← Order data  
+│── products.csv                         ← Product data  
+│── Ferns and Petals Sales Analysis.pdf  ← Final analysis + insights  
+│── dashboard_image.png                  ← Excel dashboard screenshot  
+│── README.md                            ← Project documentation
 
-Datasets
+⭐ Datasets
 
-Datasets included in fnp datasets/ may include:
+The datasets included in the project consist of:
 
-Raw sales data (e.g., orders, products, dates, regions)
+📌 Raw sales data
 
-Cleaned/filtered data ready for analysis
+Orders
 
-Possibly summary tables or pivot tables exported for reporting
+Customers
 
+Products
 
-Tools & Technologies
+Dates
 
-Microsoft Excel — for data cleaning, pivot tables, charts, and report preparation.
+Regions
 
-PDF reader — to open the final report.
+📌 Cleaned and filtered data used for Excel analysis
 
-Screenshot tool — to capture visual output.
+📌 Summary tables or pivot tables generated during exploration
 
-Git & GitHub — for version control and sharing.
+⭐ Tools & Technologies
 
+Microsoft Excel — data cleaning, pivot tables, charts, dashboards
 
-In the report, you’ll find key findings such as:
+PDF Reader — to access the final report
 
-Top performing product categories.
+Screenshot tool — for capturing dashboard output
 
-Monthly / quarterly trend of sales growth.
+Git & GitHub — for version control and project sharing
 
-Regional differences in revenue.
+⭐ Key Insights (from the report)
 
-Recommendations for under-performing segments.
+🔹 Top-performing product categories
+
+🔹 Monthly and quarterly sales growth trends
+
+🔹 Regional variations in revenue contribution
+
+🔹 Actionable recommendations for improving low-performing areas
